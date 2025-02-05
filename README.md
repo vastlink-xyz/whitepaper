@@ -1,5 +1,7 @@
 ---
-description: Vastlink is a global PayFi ecosystem for mass adoption.
+description: >-
+  Vastlink is a next generation crypto wallet ecosystem for mass adoption for
+  both human and AI.
 cover: .gitbook/assets/Banner.png
 coverY: 0
 ---
