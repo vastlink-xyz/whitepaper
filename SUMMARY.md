@@ -3,7 +3,7 @@
 ## 👋 Overview
 
 * [One-liner](README.md)
-* [Platforms Supported](overview/platforms-supported.md)
+* [Chains and Platforms Supported](overview/chains-and-platforms-supported.md)
 
 ## 🪄 Features
 

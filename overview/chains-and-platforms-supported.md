@@ -2,9 +2,18 @@
 description: Cross platform, cross chain, cross infrastructure
 ---
 
-# Platforms Supported
+# Chains and Platforms Supported
 
 As of December 2024, the platforms supported by Vastlink include:
+
+
+
+Support blockchains
+
+* Bitcoin
+* Ethereum and all EVM compatible chains
+* Solana
+* Cosmos
 
 
 

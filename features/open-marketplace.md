@@ -14,6 +14,12 @@ Marketplace on Vastlink, is like AppStore on iPhone, it is where:
 
 <figure><img src="../.gitbook/assets/Screenshot - marketplace.png" alt=""><figcaption><p>The Marketplace of the POC version</p></figcaption></figure>
 
+
+
+{% hint style="info" %}
+Demo videos are available on YouTube at [https://www.youtube.com/@JohnnyJiang-yd9fm](https://www.youtube.com/@JohnnyJiang-yd9fm)
+{% endhint %}
+
 {% hint style="info" %}
 **If you want to become a vendor in the marketplace, please refer to the details of the** [<mark style="color:yellow;">**Community**</mark>](../ecosystem/community.md) **chapter.**
 {% endhint %}
