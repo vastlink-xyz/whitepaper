@@ -85,4 +85,23 @@ E.g.: 5 members share the bonus pool (1M tokens), if we achieve the goals we pla
 
 I have been the decision maker since 2023, but since now we have a founding team of 3 people, we make decisions collectively going forward. In reality someone has to have a big say, the point is to make the decision making process as transparent and open as possible since we are a community driven product.
 
-\
+### 🙋‍♂️ Who is the CTO?
+
+Johnny, the CEO, is at the moment, as he has technical background, and what we are building requires a solid architecture and system design, so he is leading the dev team to build it the expected way.
+
+We do have a couple of CTO candidates from other wallet projects, and would hand it over to the right one at at the right time.
+
+### 🙋‍♂️ How do you feel confident that you have the tech talent in place to build into it?
+
+Yes you are right, there are thousands of crypto wallets out there, somehow they are 1st and 2nd generation.
+
+We are building a next generation crypto wallet different from the existing ones. The reasons I'm confident are as follows:
+
+1\. My first blockchain project was Trust Wallet back in 2019, I worked with the founding team building support for Cosmos and other chains.\
+[https://github.com/trustwallet/wallet-core/issues?q=is%3Aissue%20is%3Apr%20author%3Ajohnnynanjiang%20](https://github.com/trustwallet/wallet-core/issues?q=is%3Aissue%20is%3Apr%20author%3Ajohnnynanjiang%20)
+
+2\. Since then I've been working on crypto wallets (both open source and closed source), and feeling the pain points from both a user's perspective and a business' perspective.
+
+3\. Started from 2023 I have been doing research on next generation crypto wallets using MPC and AA, and got grant from Lit Protocol, sponsorship from Nillion, partnership from Ika (pka dWallet).
+
+4\. I founded Vastlink in 2024 when all the pieces came together to be able to form a promising product.
