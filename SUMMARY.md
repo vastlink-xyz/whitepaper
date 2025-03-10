@@ -7,7 +7,7 @@
 
 ## 🪄 Features
 
-* [POW Mechanism](features/pow-mechanism.md)
+* [Fair and POW Tokenomics](features/fair-and-pow-tokenomics.md)
 * [Keyless with MPC](features/keyless-with-mpc.md)
 * [Assets Management](features/assets-management.md)
 * [Open Marketplace](features/open-marketplace.md)
