@@ -19,41 +19,44 @@
 
 
 
-***
+<div align="left"><figure><img src="../.gitbook/assets/Deven_Billimora.JPG" alt="" width="188"><figcaption><p><a href="https://www.linkedin.com/in/devenbillimoria/">Deven Billimoria</a></p></figcaption></figure></div>
 
-## Investors
-
-
-
-<div align="left"><figure><img src="../.gitbook/assets/ProDigital_logo.png" alt=""><figcaption><p><a href="https://www.prodigitalfund.com/"><strong>ProDigital Future Fund</strong></a></p></figcaption></figure></div>
-
-A leading venture capital firm dedicated to empowering now is future web3/crypto entrepreneurs worldwide. Our mission is to fuel the next wave of digital revolution by supporting visionary entrepreneurs, fostering global impact, and leveraging our extensive network and resources. ProDigital Future Fund aims to shape the future of internet and unlock a more interconnected, secure, and equitable digital world.
+* Ex-CEO of Smartgroup (ASX:SIQ)
+* Investor and advisor
 
 
 
 ***
 
-## Partners
+## Infrastructure partners
 
 
 
-<div align="left"><figure><img src="../.gitbook/assets/FrankieOne_logo.png" alt=""><figcaption><p><a href="https://frankieone.com/"><strong>FrankieOne</strong></a></p></figcaption></figure></div>
+Lit Protocol is the decentralized network for managing keys and secrets
 
-A global KYC/AML and fraud ecosystem&#x20;
+<div align="left"><figure><img src="../.gitbook/assets/Lit_logo.png" alt="" width="224"><figcaption><p><a href="https://www.litprotocol.com/">Lit Protocol</a></p></figcaption></figure></div>
 
 
-
-<div align="left"><figure><img src="../.gitbook/assets/Nillion_logo.png" alt=""><figcaption><p><a href="https://nillion.com/"><strong>Nillion</strong></a></p></figcaption></figure></div>
 
 Humanity’s first blind computer&#x20;
 
+<div align="left"><figure><img src="../.gitbook/assets/Nillion_logo.png" alt=""><figcaption><p><a href="https://nillion.com/"><strong>Nillion</strong></a></p></figcaption></figure></div>
 
+
+
+The zero trust interoperability platform
 
 <div align="left"><figure><img src="../.gitbook/assets/Ika_logo.png" alt=""><figcaption><p><a href="https://ika.xyz/"><strong>Ika</strong></a></p></figcaption></figure></div>
 
-The zero trust interoperability platform&#x20;
 
 
+A global KYC/AML and fraud ecosystem&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/FrankieOne_logo.png" alt=""><figcaption><p><a href="https://frankieone.com/"><strong>FrankieOne</strong></a></p></figcaption></figure></div>
+
+
+
+***
 
 {% hint style="info" %}
 We will update here when new advisors, investors and partners join.

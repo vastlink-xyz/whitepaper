@@ -1,4 +1,4 @@
-# Core Team
+# Our Team
 
 <div align="left"><figure><img src="../.gitbook/assets/1631145533745 (1).jpeg" alt="" width="183"><figcaption></figcaption></figure></div>
 
@@ -29,3 +29,22 @@
 * Champion of MOOAR Season 1.&#x20;
 * With a track record at gaming giants like Tencent and Riot Games, I've honed expertise in operations and driving user growth, blending innovation with impact to shape the future of gaming and Web3.
 
+
+
+***
+
+
+
+**Chief of Business for Asia-Pacific**
+
+<div align="left"><figure><img src="../.gitbook/assets/Andy_Chou.jpg" alt="" width="188"><figcaption><p>Andy Zhow</p></figcaption></figure></div>
+
+* Director of China Guangdong-HK-Macao Greater Bay Area Trade Development Promotion Association LIMITED (HK)
+
+
+
+**Chief of Business for Middle-East**
+
+<div align="left"><figure><img src="../.gitbook/assets/Ahmed Dewidar.png" alt="" width="197"><figcaption><p><a href="https://www.linkedin.com/in/ahmeddewidar/">Ahmed Dewidar</a></p></figcaption></figure></div>
+
+* Ex MoneyGram

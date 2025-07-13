@@ -21,7 +21,8 @@
 ## 🤿 More Info
 
 * [Roadmap](more-info/roadmap.md)
-* [Core Team](more-info/core-team.md)
+* [Our Team](more-info/our-team.md)
+* [Our Customers](more-info/our-customers.md)
 * [Our Backers](more-info/our-backers.md)
 * [Official Links](more-info/official-links.md)
 * [FAQ](more-info/faq.md)
