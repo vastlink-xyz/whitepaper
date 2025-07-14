@@ -58,6 +58,10 @@ A global KYC/AML and fraud ecosystem&#x20;
 
 ***
 
+## Testimonials
+
+<div align="left"><figure><img src="../.gitbook/assets/J_Labs.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
 {% hint style="info" %}
-We will update here when new advisors, investors and partners join.
+[J Labs](https://j-labs.xyz/) is a Web3 development shop founded by Johnny Jiang, it is the driving force for building Vastlink.
 {% endhint %}
