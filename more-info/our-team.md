@@ -21,16 +21,6 @@
 
 
 
-<div align="left"><figure><img src="../.gitbook/assets/roy pic.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-[**Roy**](https://www.linkedin.com/in/nordicroy/) **(Cofounder & COO)**
-
-* Founder of HypeSaints, proudly backed by STEPN.&#x20;
-* Champion of MOOAR Season 1.&#x20;
-* With a track record at gaming giants like Tencent and Riot Games, I've honed expertise in operations and driving user growth, blending innovation with impact to shape the future of gaming and Web3.
-
-
-
 ***
 
 
